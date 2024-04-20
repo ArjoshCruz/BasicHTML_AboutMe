@@ -1,0 +1,145 @@
+.main_div{
+    background-color: rgb(21, 52, 72);
+    width: 1000px;
+    height: 450px;
+    border: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.picture_div {
+    background-color: rgb(148, 137, 121);
+
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 400px;
+
+    padding: 15px 15px;
+
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+    width: 200px;
+    height: 200px;
+}
+
+.profile_pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 500px;
+    object-fit: cover;
+    object-position: top;
+    margin-left: 0;
+}
+
+.name_div {
+    background-color: rgb(223, 208, 184);
+    display: inline-block;
+    border-radius: 5px;
+
+    width: 670px;
+    
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.name{
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 55px;
+
+    padding-left: 25px;
+
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.nickname {
+    font-family: Tahoma;
+    font-style: italic;
+    font-size: 30px;
+
+    padding-left: 25px;
+
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+
+.quote {
+    font-family: Tahoma;
+    font-size: 15px;
+    width: 628px;
+
+    padding-left: 25px;
+
+    margin-top: 0px;
+}
+
+.contacts_div {
+    background-color: rgb(235, 223, 206);
+
+    border-radius: 10px;
+
+    display: inline-block;
+    vertical-align: top;
+
+    padding: 15px 15px;
+
+    margin-left: 30px;
+    margin-top: 0px;
+
+    width: 200px;
+    height: 95px;
+}
+
+.follow_text {
+    font-family: Tahoma;
+    font-size: 19px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+}
+
+.fb_logo, .github_logo {
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-right: 15px;
+}
+
+.unordered_list_div, .ordered_list_div {
+    background-color: rgb(235, 223, 206);
+    display: inline-block;
+    border-radius: 5px;
+
+    padding-left: 44px;
+    padding-right: 44px;
+
+    width: 235px;
+
+    margin-left:20px;
+}
+
+.hobbies_text, .top_text {
+    font-family: Tahoma;
+    font-size: 19px;
+    font-weight: bold;
+
+    padding-left: 5px;
+    padding-top: 10px;
+
+    margin-bottom: 5px;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+ul, ol {
+    font-family: Tahoma;
+    margin-top: 0px;
+    padding-left: 60px;
+}
+
+
+
